@@ -1,0 +1,8 @@
+numpy==1.14.3
+pymongo==3.6.0
+pandas==0.23.3
+neo4j_driver==1.5.3
+Flask==0.12.2
+neo4j==1.7.1
+scikit-learn==0.20.0
+scipy==0.19.1
